@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#F7D000" rx="10"/>
+  <rect x="30" y="30" width="140" height="140" fill="none" stroke="#5D4E37" stroke-width="6" rx="5"/>
+  
+  <!-- Fork -->
+  <g fill="#5D4E37">
+    <path d="M55 25 L55 55 M50 25 L50 45 M60 25 L60 45" stroke="#5D4E37" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="55" cy="60" rx="8" ry="5"/>
+    <rect x="53" y="58" width="4" height="20" rx="2"/>
+  </g>
+  
+  <!-- Spoon -->
+  <g fill="#5D4E37">
+    <ellipse cx="75" cy="35" rx="8" ry="12"/>
+    <rect x="73" y="45" width="4" height="20" rx="2"/>
+  </g>
+  
+  <!-- Text "etc." -->
+  <text x="100" y="115" font-family="Arial Black, sans-serif" font-size="50" font-weight="900" fill="#5D4E37" text-anchor="middle">etc.</text>
+  
+  <!-- Text "foodbox" -->
+  <text x="100" y="145" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#5D4E37" text-anchor="middle" letter-spacing="3">foodbox</text>
+  
+  <!-- Coffee cup -->
+  <g fill="#5D4E37">
+    <rect x="85" y="150" width="30" height="25" rx="3"/>
+    <path d="M115 155 Q125 160 115 170" fill="none" stroke="#5D4E37" stroke-width="3"/>
+  </g>
+</svg>
